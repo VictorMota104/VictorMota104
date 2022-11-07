@@ -7,8 +7,8 @@
 ## Sobre
 
 <p>
-    Desenvolvedor full-stack desde 2021.<br>
-    Estudo desenvolvimento front-end e back-end, estou em busca de uma oportunidade na área, onde possa aplicar meus conhecimentos e habilidades para melhoria contínua.</p>
+    Desenvolvedor full-stack desde 2021.<br>Sou o Victor Mota, tenho trabalhado com desenvolvimento full-stack desde 2021. Com excelentes habilidades de comunicação, além de um rico desejo de adquirir novos conhecimentos atráves de uma nova oportunidade na área. Cursando Análise e Desenvolvimento de Sistemas, me apaixono cada dia mais por esse seguimento.
+    </p>
 
 ## Formação
 
