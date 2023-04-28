@@ -7,7 +7,7 @@
 ## Sobre
 
 <p>
-    Desenvolvedor full-stack desde 2021.<br>Sou o Victor Mota, tenho trabalhado com desenvolvimento full-stack desde 2021. Com excelentes habilidades de comunicação, além de um rico desejo de adquirir novos conhecimentos atráves de uma nova oportunidade na área. Cursando Análise e Desenvolvimento de Sistemas, me apaixono cada dia mais por esse seguimento.
+   Trabalhando com desenvolvimento desde 2022 e excelentes habilidades de comunicação, estou em busca de uma nova oportunidade para expandir meus conhecimentos na área. Tenho um forte desejo de aprender e crescer profissionalmente. Como desenvolvedor, busco sempre aprimorar as aplicações e plataformas que trabalho, garantindo que elas atendam aos requisitos mais críticos de escalabilidade, performance e disponibilidade. Se sua empresa busca um profissional comprometido, apaixonado por tecnologia e capaz de entregar resultados excepcionais, entre em contato comigo. Estou ansioso para contribuir com meu conhecimento e habilidades!.
     </p>
 
 ## Formação
